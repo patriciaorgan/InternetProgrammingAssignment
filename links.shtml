@@ -1,0 +1,17 @@
+<!--Patricia Organ - 01110489 - HDip Software Design and Development - CT870 - Internet Programming-->
+<!--#include virtual="top.html"-->
+<div id="content" class="center">
+			<table class="tableStyle">
+				
+				<tr><td>
+					<h2>Please find below related and useful links to our site:<br>
+					<ul>
+					<li><a href="http://collectireland.com/car-boot-sales/" target="_blank">Collection Ireland</a></li>
+					<li><a href="http://irishcarboot.ie/" target="_blank">IrishCarBoot.ie</a></li>
+					<li><a href="http://www.frg.ie/lifestyle/car-boot-sales-guide-dublin-ireland/" target="_blank">Guild to car-boot sales in Dublin</a></li>
+					<li><a href="http://www.rahenycarboot.com/" target="_blank">Raheny Car boot</a></li>
+					</ul></h2>
+				</td></tr>
+			</table>
+</div>
+<!--#include virtual="bottom.html"-->

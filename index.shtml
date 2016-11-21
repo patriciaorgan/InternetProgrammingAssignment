@@ -1,0 +1,11 @@
+<!--Patricia Organ - 01110489 - HDip Software Design and Development - CT870 - Internet Programming-->
+<!--#include virtual="top.html"-->
+<div id="content" class="center">
+				<h2>Welcome to our site you will find lots of great deals <a href="offer.shtml">here</a>.</h2>
+				<p>This website was created so you didn't have to trawl
+					through items in the rain, you can find them all here.</p>
+				<p>This website was established in 2010, and has been going strong
+					and with positive feedback from our customers</p>
+				<p>Please browse and happy Shopping!!</p>
+</div>
+<!--#include virtual="bottom.html"-->

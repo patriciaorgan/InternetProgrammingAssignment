@@ -1,0 +1,16 @@
+<!--Patricia Organ - 01110489 - HDip Software Design and Development - CT870 - Internet Programming-->
+<!--#include virtual="top.html"-->
+<div id="content" class="center">
+				<h2>Welcome to our site you will find lots of great deals <a href="offer.html">here</a>.</h2>
+				<p>We established this website in 2010 to try satisfy the need from our customer who couldn't make
+					all the car-boot sales, and the weather effected a lot of suppliers as well as customer,
+					now you can find all your car boot items on-line and have it delivered without you having to
+					leave and go out in the rain.</p>
+					<p class="italics">Translated this:</p>
+				<p><image src="images/boot.jpeg"></p>
+					<p class="italics">Into these items now buy-able on-line: </p>
+					<p><img height="200" src="images/oldthing.jpeg"> <img height="200" src="images/tv.jpeg">
+					</p>
+					<p>&nbsp; </p>
+</div>
+<!--#include virtual="bottom.html"-->

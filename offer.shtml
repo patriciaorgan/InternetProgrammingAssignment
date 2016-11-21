@@ -1,0 +1,97 @@
+<!--Patricia Organ - 01110489 - HDip Software Design and Development - CT870 - Internet Programming-->
+<!--#include virtual="top.html"-->
+
+<div id="content" class="center">
+			<h2>Special Offers for month of November</h2>
+			<div class="blockCenter">
+                        <div id="hoovertag" > </div>
+						<table>
+						<tr>
+							<th colspan="3">Bike </th>
+						</tr>
+						<tr >
+							<td colspan="2">Pink bike one previous owner, height suitable for adults</td>
+							<td rowspan="3"><img onmouseover="onHover(this)" onmouseout="clearText()"
+                                                 src="images\bike2.jpg"
+                                                 longdesc="This bike is pink and goes really fast"></td>
+						</tr>
+						<tr>
+							<td>Original Price</td>
+							<td width="50">&euro;200</td>
+						</tr>
+						<tr class="strong">
+							<td>20% off - Special Offer Price</td>
+							<td>&euro;160</td>
+						</tr>
+						</table>
+
+						<p>&nbsp </p>
+
+						<table>
+						<tr>
+							<th colspan="3" >Iron</th>
+
+						</tr>
+						<tr >
+							<td colspan="2">Still in the box never used Iron bought in 2013</td>
+							<td rowspan= "4"><img onmouseover="onHover(this)" onmouseout="clearText()"
+                                                  src="images\iron.png"
+                                                  longdesc="This is a steam iron that has 4 settings"></td>
+						</tr>
+						<tr >
+							<td>Original Price</td>
+							<td width="50">&euro;100</td>
+						</tr>
+						<tr class="strong">
+							<td><b>20% off - Special Offer Price</b></td>
+							<td><b>&euro;80</b></td>
+						</tr>
+						</table>
+
+						<p>&nbsp </p>
+
+						<table>
+						<tr>
+							<th colspan="3">Big TV</th>
+						</tr>
+						<tr >
+							<td colspan="2">42inch TV used, but in perfect working order</td>
+							<td rowspan= "4"><img onmouseover="onHover(this)" onmouseout="clearText()"
+                                                  src="images\bigTV.jpg"
+                                                  longdesc="This is a black 42inch TV"></td>
+						</tr>
+						<tr >
+							<td>Original Price</td>
+							<td width="50">&euro;300</td>
+						</tr>
+						<tr class="strong">
+							<td>10% off - Special Offer Price</td>
+							<td>&euro;270</td>
+						</tr>
+						</table>
+
+						<p>&nbsp </p>
+
+						<table>
+						<tr>
+							<th colspan="3" >Java Book for Dummies</th>
+						</tr>
+						<tr >
+							<td colspan="2">Second hand owned by a clean student</td>
+							<td rowspan= "4"><img onmouseover="onHover(this)" onmouseout="clearText()"
+                                                  src="images\javaBook.jpg"
+                                                  longdesc="Book is about Java programming and have 400 pages"></td>
+						</tr>
+						<tr>
+							<td>Original Price</td>
+							<td width="50">&euro;50</td>
+						</tr>
+						<tr class="strong">
+							<td>10% off - Special Offer Price</b></td>
+							<td>&euro;45</td>
+						</tr>
+						</table>
+						<p>&nbsp </p>
+			</div>
+</div>
+<!--#include virtual="bottom.html"-->
